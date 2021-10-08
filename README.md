@@ -3,8 +3,10 @@
 Setup Phone Authentication with Firebase
 
 Links:
-
+## Integrate Firebase in React Native App
 https://blog.jscrambler.com/integrating-firebase-with-react-native
+
+## Integrate Firebase Phone Authentication in React Native App
 https://www.section.io/engineering-education/react-native-firebase-phone-authentication/
 
 
