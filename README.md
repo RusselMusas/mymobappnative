@@ -1,15 +1,15 @@
-# Getting Started with Create React Native App
+##  Getting Started with Create React Native App
 
-Setup Phone Authentication with Firebase into React Native App
+##  Setup Phone Authentication with Firebase into React Native App
 
-Step 1: Integrate Firebase into react native application
+##  Step 1: Integrate Firebase into react native application
+Check the link below:
+https://blog.jscrambler.com/integrating-firebase-with-react-native
 
-Link: https://blog.jscrambler.com/integrating-firebase-with-react-native
 
-
-Step 2: Integrate phone authentication into react native application
-
-Links: https://www.section.io/engineering-education/react-native-firebase-phone-authentication/
+##  Step 2: Integrate phone authentication into react native application
+Check the link below:
+https://www.section.io/engineering-education/react-native-firebase-phone-authentication/
 
 
 ## Available Scripts
